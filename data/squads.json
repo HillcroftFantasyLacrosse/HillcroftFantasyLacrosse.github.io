@@ -64,7 +64,6 @@
     {"player": "Henry Bliss", "position": "MF", "value": 7.9},
     {"player": "Jacob Derbyshire", "position": "MF", "value": 9.8},
     {"player": "Robin Van der Harst", "position": "MF", "value": 7.7},
-    {"player": "Richard Gorr", "position": "MF", "value": 8.5},
     {"player": "Simon Moss", "position": "MF", "value": 9.1},
     {"player": "David Travers", "position": "MF", "value": 7.8},
     {"player": "Chris Ablaplanap", "position": "MF", "value": 8.6},
@@ -72,6 +71,7 @@
     {"player": "Ken Koi", "position": "FW", "value": 10.8},
     {"player": "Fred Hacking", "position": "FW", "value": 10.1},
     {"player": "Rob Clark", "position": "FW", "value": 9.0},
+    {"player": "Richard Gorr", "position": "FW", "value": 8.5},
     {"player": "Morgan McGrath", "position": "FW", "value": 9.4}
   ]}
 ]
