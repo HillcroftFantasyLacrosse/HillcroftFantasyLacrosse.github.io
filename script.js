@@ -167,6 +167,8 @@ $.getJSON("data/squads.json", function(squads) {
             tj.append($("<td>").append(getAppearances(player)));
             var ts = getRow(player["points"]);
             ts.append($("<td>").append(getValue(player)));         
+            var t = getRow(player["points"]);
+            t.append($("<td>").append(getPenalties(player)));              
             var tu = getRow(player["points"]);
             tu.append($("<td>").append(getGoalsConceded(player)));  
             var th = getRow(player["points"]);
@@ -180,6 +182,7 @@ $.getJSON("data/squads.json", function(squads) {
             tr.append($("<td>").append(ti));
             tr.append($("<td>").append(tw));
             tr.append($("<td>").append(tu));
+            tr.append($("<td>").append(t));
             tr.append($("<td>").append(tq));
             tr.append($("<td>").append(tz));
             tr.append($("<td>").append(th));
@@ -299,6 +302,13 @@ function getGoals(data, sub) {
     p.append(data["goals"]);
     return p;
 }
+
+function getPenalties(data, sub) {
+    var p = $("<p>");
+    p.append(data["penalties"]);
+    return p;
+}
+
 
 function getGoalsConceded(data, sub) {
     var p = $("<p>");
