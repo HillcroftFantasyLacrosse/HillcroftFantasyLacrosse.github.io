@@ -71,6 +71,7 @@ $.getJSON("data/squads.json", function(squads) {
                         "team": data["team"],
                         "teamname": data["teamname"],
                         "points": 0,
+                        "gameweekpoints": 0,
                         "drafts": 0,
                         "teamvalue": 0,
                         "transfers": 0,
@@ -200,6 +201,12 @@ $.getJSON("data/squads.json", function(squads) {
             manager["players"].sort(function(a, b) {
                 return sortPosition(playerDict[a], playerDict[b]);
             });
+            var ti = $("<td>");
+            $.each(manager["players"], function(undefined, namePlayer) {
+                var player = playerDict[namePlayer];
+                manager["gameweekpoints"] += player["gameweekpoints"]
+                ti.append(manager["gameweekpoints"]);
+            });            
             var tr = getRow(rank == 0 ? 1 : rank == managerList.length-1 ? -1 : 0);
             tr.append($("<td>").append(getPerson(manager)));
             var td = getRow(rank == 0 ? 1 : rank == managerList.length-1 ? -1 : 0);
@@ -207,6 +214,7 @@ $.getJSON("data/squads.json", function(squads) {
             var th = getRow(rank == 0 ? 1 : rank == managerList.length-1 ? -1 : 0);
             th.append($("<td>").append(getTeamName(manager)));  
             tr.append($("<td>").append(th));
+            tr.append(ti));
             tr.append($("<td>").append(td));
             $("#table_managers").append(tr);
         });
