@@ -287,7 +287,7 @@ function getPersonandScore(data, sub) {
     try {
         p.append(data["position"]);
     } catch (err) {}
-    p.append(getFlag(data["country"]));
+    p.append(getFlag(data["name"]));
     p.append(data["name"] + " (" + data["points"] + ")");
     return p;
 }
