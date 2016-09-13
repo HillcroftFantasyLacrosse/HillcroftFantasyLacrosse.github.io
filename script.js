@@ -220,6 +220,7 @@ $.getJSON("data/squads.json", function(squads) {
             $.each(manager["players"], function(undefined, namePlayer) {
                 var player = playerDict[namePlayer];
                 td.append(getPerson(player));
+                td.append("(" + getPoints(player) + ")")
             });
             var tr = getRow(rank == 0 ? 1 : rank == managerList.length-1 ? -1 : 0);
             tr.append($("<td>").append(getPerson(manager)));
