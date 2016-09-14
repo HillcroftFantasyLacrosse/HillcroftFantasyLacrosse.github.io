@@ -281,7 +281,7 @@ function getRow(value) {
 }
 
 function getDescriptor(type, value) {
-    var p = $("<p>");
+    var p = $("<p align=" + "center" + ">");
     p.text(type + " (" + value + ")");
     return p;
 }
@@ -300,68 +300,68 @@ function getPerson(data, sub) {
 }
 
 function getTeamName(data, sub) {
-    var p = $("<p>");
+    var p = $("<p align=" + "center" + ">");
     p.append(data["teamname"]);
     return p;
 }
  
 function getPoints(data, sub) {
-    var p = $("<p>");
+    var p = $("<p align=" + "center" + ">");
     p.append(data["points"]);
     return p;
 }
  
 function getGameweekPoints(data, sub) {
-    var p = $("<p class=" + "big" + ">");
+    var p = $("<p align=" + "center" + " class=" + "big" + ">");
     p.append(data["gameweekpoints"]);
     return p;
 }
 
 function getValue(data, sub) {
-    var p = $("<p>");
+    var p = $("<p align=" + "center" + ">");
     p.append("£" + data["value"] + "m");
     return p;
 }
 
 function getGoals(data, sub) {
-    var p = $("<p>");
+    var p = $("<p align=" + "center" + ">");
     p.append(data["goals"]);
     return p;
 }
 
 function getPenalties(data, sub) {
-    var p = $("<p>");
+    var p = $("<p align=" + "center" + ">");
     p.append(data["penalties"]);
     return p;
 }
 
 
 function getGoalsConceded(data, sub) {
-    var p = $("<p>");
+    var p = $("<p align=" + "center" + ">");
     p.append(data["goalsconceded"]);
     return p;
 }
 
 function getAssists(data, sub) {
-    var p = $("<p>");
+    var p = $("<p align=" + "center" + ">");
     p.append(data["assists"]);
     return p;
 }
 
 function getAppearances(data, sub) {
-    var p = $("<p>");
+    var p = $("<p align=" + "center" + ">");
     p.append(data["appearances"]);
     return p;
 }
 
 function getMOM(data, sub) {
-    var p = $("<p>");
+    var p = $("<p align=" + "center" + ">");
     p.append(data["mom"]);
     return p;
 }
 
 function getDOD(data, sub) {
-    var p = $("<p>");
+    var p = $("<p align=" + "center" + ">");
     p.append(data["dod"]);
     return p;
 }
