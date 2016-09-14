@@ -53,6 +53,7 @@ $.getJSON("data/squads.json", function(squads) {
                 "mom": 0,
                 "dod": 0,
                 "value": player["value"],
+                "picture": player["picture"],
                 "position": player["position"]};
         });
     });
@@ -373,6 +374,7 @@ function getDOD(data, sub) {
 }
 
 function getFlag(player) {
+    var player = playerDict[data["player"]];
     var img = $("<img>");
     img.attr("src", player["picture"]);
     img.attr("style", "height: 28; width: 30; margin: 0 8");
