@@ -232,7 +232,7 @@ $.getJSON("data/squads.json", function(squads) {
             var ti = $("<td>");
             $.each(manager["players"], function(undefined, namePlayer) {
                 var player = playerDict[namePlayer];
-                ti.append(getGameWeekPoints(player));            
+                ti.append(getGameweekPoints(player));            
             });
             var ta = $("<td>");
             $.each(manager["players"], function(undefined, namePlayer) {
