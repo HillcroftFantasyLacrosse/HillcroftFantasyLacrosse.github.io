@@ -1,15 +1,78 @@
 [
   
 {"Manager": {"manager": "Tom Paton", "teamname": "105th Batallion"}},
-{"Manager": {"manager": "Rhys Morgan", "teamname": ""}},
-{"Manager": {"manager": "Sam Scott", "teamname": ""}},  
-{"Manager": {"manager": "Chris Turner", "teamname": ""}},  
+{"Manager": {"manager": "Rhys Morgan", "teamname": "blah"}},
+{"Manager": {"manager": "Sam Scott", "teamname": "test"}},  
+{"Manager": {"manager": "Chris Turner", "teamname": "blue"}},  
+{"Manager": {"manager": "Harry Collins", "teamname": "red"}},
+{"Manager": {"manager": "Zak Jordan", "teamname": "yes"}},
+{"Manager": {"manager": "Liam Kirwan", "teamname": "no"}},  
+{"Manager": {"manager": "Peter Griffin", "teamname": "geghtr"}},  
+{"Manager": {"manager": "Albert Whitehead", "teamname": "red"}},
+{"Manager": {"manager": "Aaron Fox", "teamname": "yes"}},
+{"Manager": {"manager": "Andrew Hopkins", "teamname": "no"}},  
+{"Manager": {"manager": "Ben Jessup", "teamname": "geghtr"}},  
   
 {"Draft": {"manager": "Tom Paton", "player": "Chris Turner"}},
 {"Draft": {"manager": "Tom Paton", "player": "Tom Paton"}},
 {"Draft": {"manager": "Tom Paton", "player": "Sam Scott"}},
 {"Draft": {"manager": "Tom Paton", "player": "Rhys Morgan"}},
   
+{"Draft": {"manager": "Rhys Morgan", "player": "Chris Turner"}},
+{"Draft": {"manager": "Rhys Morgan", "player": "Tom Paton"}},
+{"Draft": {"manager": "Rhys Morgan", "player": "Sam Scott"}},
+{"Draft": {"manager": "Rhys Morgan", "player": "Rhys Morgan"}},
+  
+{"Draft": {"manager": "Sam Scott", "player": "Chris Turner"}},
+{"Draft": {"manager": "Sam Scott", "player": "Tom Paton"}},
+{"Draft": {"manager": "Sam Scott", "player": "Sam Scott"}},
+{"Draft": {"manager": "Sam Scott", "player": "Rhys Morgan"}},
+  
+{"Draft": {"manager": "Chris Turner", "player": "Chris Turner"}},
+{"Draft": {"manager": "Chris Turner", "player": "Tom Paton"}},
+{"Draft": {"manager": "Chris Turner", "player": "Sam Scott"}},
+{"Draft": {"manager": "Chris Turner", "player": "Rhys Morgan"}},
+  
+{"Draft": {"manager": "Harry Collins", "player": "Chris Turner"}},
+{"Draft": {"manager": "Harry Collins", "player": "Tom Paton"}},
+{"Draft": {"manager": "Harry Collins", "player": "Sam Scott"}},
+{"Draft": {"manager": "Harry Collins", "player": "Rhys Morgan"}},
+  
+{"Draft": {"manager": "Zak Jordan", "player": "Chris Turner"}},
+{"Draft": {"manager": "Zak Jordan", "player": "Tom Paton"}},
+{"Draft": {"manager": "Zak Jordan", "player": "Sam Scott"}},
+{"Draft": {"manager": "Zak Jordan", "player": "Rhys Morgan"}},
+  
+{"Draft": {"manager": "Liam Kirwan", "player": "Chris Turner"}},
+{"Draft": {"manager": "Liam Kirwan", "player": "Tom Paton"}},
+{"Draft": {"manager": "Liam Kirwan", "player": "Sam Scott"}},
+{"Draft": {"manager": "Liam Kirwan", "player": "Rhys Morgan"}},
+  
+{"Draft": {"manager": "Peter Griffin", "player": "Chris Turner"}},
+{"Draft": {"manager": "Peter Griffin", "player": "Tom Paton"}},
+{"Draft": {"manager": "Peter Griffin", "player": "Sam Scott"}},
+{"Draft": {"manager": "Peter Griffin", "player": "Rhys Morgan"}},
+  
+{"Draft": {"manager": "Albert Whitehead", "player": "Chris Turner"}},
+{"Draft": {"manager": "Albert Whitehead", "player": "Tom Paton"}},
+{"Draft": {"manager": "Albert Whitehead", "player": "Sam Scott"}},
+{"Draft": {"manager": "Albert Whitehead", "player": "Rhys Morgan"}},
+  
+{"Draft": {"manager": "Aaron Fox", "player": "Chris Turner"}},
+{"Draft": {"manager": "Aaron Fox", "player": "Tom Paton"}},
+{"Draft": {"manager": "Aaron Fox", "player": "Sam Scott"}},
+{"Draft": {"manager": "Aaron Fox", "player": "Rhys Morgan"}},
+  
+{"Draft": {"manager": "Andrew Hopkins", "player": "Chris Turner"}},
+{"Draft": {"manager": "Andrew Hopkins", "player": "Tom Paton"}},
+{"Draft": {"manager": "Andrew Hopkins", "player": "Sam Scott"}},
+{"Draft": {"manager": "Andrew Hopkins", "player": "Rhys Morgan"}},
+  
+{"Draft": {"manager": "Ben Jessup", "player": "Chris Turner"}},
+{"Draft": {"manager": "Ben Jessup", "player": "Tom Paton"}},
+{"Draft": {"manager": "Ben Jessup", "player": "Sam Scott"}},
+{"Draft": {"manager": "Ben Jessup", "player": "Rhys Morgan"}},
+
 {"Transfer": {"manager": "Tom Paton","out": "Chris Turner", "in": "Harry Collins"}},
   
 {"Points":{"player":"Aaron Fox","Assist": 1,"Goal":1,"Appearance":1,"Goals Conceded": 5,"Penalty": 1,"mom":1,"dod":1}},
