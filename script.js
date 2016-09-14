@@ -232,12 +232,12 @@ $.getJSON("data/squads.json", function(squads) {
             var ti = $("<td>");
             $.each(manager["players"], function(undefined, namePlayer) {
                 var player = playerDict[namePlayer];
-                ti.append(player["gameweekpoints"]);            
+                ti.append(getGameWeekPoints(player));            
             });
             var ta = $("<td>");
             $.each(manager["players"], function(undefined, namePlayer) {
                 var player = playerDict[namePlayer];
-                ta.append(player["points"]);                
+                ta.append(getPoints(player));                
             });            
             var tr = getRow(rank == 0 ? 1 : rank == managerList.length-1 ? -1 : 0);
             tr.append($("<td>").append(getPerson(manager)));
@@ -299,19 +299,6 @@ function getPerson(data, sub) {
     return p;
 }
 
-//function getPersonandScore(data, sub) {
-//    var p = $("<p>");
-//    if (typeof sub != 'undefined') {
-//        p.append(getArrow(sub));
-//    }
-//    try {
-//        p.append(data["position"]);
-//    } catch (err) {}
-//    p.append(getFlag(data["name"]));
-//    p.append(data["name"] + " (" + data["points"] + ")");
-//    return p;
-//}
-
 function getTeamName(data, sub) {
     var p = $("<p>");
     p.append(data["teamname"]);
@@ -321,6 +308,12 @@ function getTeamName(data, sub) {
 function getPoints(data, sub) {
     var p = $("<p>");
     p.append(data["points"]);
+    return p;
+}
+ 
+function getGameweekPoints(data, sub) {
+    var p = $("<p>");
+    p.append(data["gameweekpoints"]);
     return p;
 }
 
