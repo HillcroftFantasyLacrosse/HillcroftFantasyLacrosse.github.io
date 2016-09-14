@@ -312,7 +312,7 @@ function getPoints(data, sub) {
 }
  
 function getGameweekPoints(data, sub) {
-    var p = $("<p>");
+    var p = $(<p class="big">);
     p.append(data["gameweekpoints"]);
     return p;
 }
