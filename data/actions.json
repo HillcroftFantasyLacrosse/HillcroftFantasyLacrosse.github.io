@@ -13,11 +13,17 @@
 {"Manager": {"manager": "Andrew Hopkins", "teamname": "no"}},  
 {"Manager": {"manager": "Ben Jessup", "teamname": "geghtr"}},  
   
-{"Draft": {"manager": "Tom Paton", "player": "Chris Turner"}},
-{"Draft": {"manager": "Tom Paton", "player": "Tom Paton"}},
+{"Draft": {"manager": "Tom Paton", "player": "Mathew O'Leary"}},
+{"Draft": {"manager": "Tom Paton", "player": "Ben Jessup"}},
 {"Draft": {"manager": "Tom Paton", "player": "Sam Scott"}},
+{"Draft": {"manager": "Tom Paton", "player": "Ben Stothard"}},
+{"Draft": {"manager": "Tom Paton", "player": "Chris Turner"}},
 {"Draft": {"manager": "Tom Paton", "player": "Rhys Morgan"}},
-  
+{"Draft": {"manager": "Tom Paton", "player": "Albert Whitehead"}},
+{"Draft": {"manager": "Tom Paton", "player": "Brian Potter"}},
+{"Draft": {"manager": "Tom Paton", "player": "Eoin Dunne"}},
+{"Draft": {"manager": "Tom Paton", "player": "Tom Paton"}},
+
 {"Draft": {"manager": "Rhys Morgan", "player": "Chris Turner"}},
 {"Draft": {"manager": "Rhys Morgan", "player": "Tom Paton"}},
 {"Draft": {"manager": "Rhys Morgan", "player": "Sam Scott"}},
