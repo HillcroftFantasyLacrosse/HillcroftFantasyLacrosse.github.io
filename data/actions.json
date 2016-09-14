@@ -58,8 +58,6 @@
 {"Draft": {"manager": "Ben Jessup", "player": "Tom Paton"}},
 {"Draft": {"manager": "Ben Jessup", "player": "Sam Scott"}},
 
-{"Transfer": {"manager": "Tom Paton","out": "Chris Turner", "in": "Harry Collins"}},
-  
 {"Points":{"player":"Aaron Fox","Assist": 1,"Goal":1,"Appearance":1,"Goals Conceded": 5,"Penalty": 1,"mom":1,"dod":1}},
 {"Points":{"player":"Adam Scott","Assist": 1,"Goal":1,"Appearance":1,"Goals Conceded": 5,"Penalty": 1,"mom":1,"dod":1}},
 {"Points":{"player":"Adam White","Assist": 1,"Goal":1,"Appearance":1,"Goals Conceded": 5,"Penalty": 1,"mom":1,"dod":1}},
@@ -128,6 +126,9 @@
 {"Points":{"player":"Tom Paton","Assist": 1,"Goal":1,"Appearance":1,"Goals Conceded": 0,"Penalty": 1,"mom":1,"dod":1}},
 {"Points":{"player":"Tom Ridings","Assist": 1,"Goal":1,"Appearance":1,"Goals Conceded": 5,"Penalty": 1,"mom":1,"dod":1}},
 {"Points":{"player":"Zak Jordan","Assist": 1,"Goal":1,"Appearance":1,"Goals Conceded": 5,"Penalty": 1,"mom":1,"dod":1}},
+
+{"Transfer": {"manager": "Tom Paton","out": "Chris Turner", "in": "Tom Paton"}},
+
 {"Points":{"player":"Aaron Fox","Assist": 2,"Goal":2,"Appearance":1,"Goals Conceded": 5,"Penalty": 1,"mom":1,"dod":1}},
 {"Points":{"player":"Adam Scott","Assist": 2,"Goal":2,"Appearance":1,"Goals Conceded": 5,"Penalty": 1,"mom":1,"dod":1}},
 {"Points":{"player":"Adam White","Assist": 2,"Goal":2,"Appearance":1,"Goals Conceded": 5,"Penalty": 1,"mom":1,"dod":1}},
