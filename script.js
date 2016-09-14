@@ -237,7 +237,7 @@ $.getJSON("data/squads.json", function(squads) {
             var ta = $("<td>");
             $.each(manager["players"], function(undefined, namePlayer) {
                 var player = playerDict[namePlayer];
-                ta.append(getPoints(player));                
+                ta.append(getPointsLarge(player));                
             });            
             var tr = getRow(rank == 0 ? 1 : rank == managerList.length-1 ? -1 : 0);
             tr.append($("<td>").append(getPerson(manager)));
@@ -311,6 +311,12 @@ function getPoints(data, sub) {
     return p;
 }
  
+function getPointsLarge(data, sub) {
+    var p = $("<p align=" + "center" + " class=" + "big" + ">");
+    p.append(data["points"]);
+    return p;
+}
+  
 function getGameweekPoints(data, sub) {
     var p = $("<p align=" + "center" + " class=" + "big" + ">");
     p.append(data["gameweekpoints"]);
