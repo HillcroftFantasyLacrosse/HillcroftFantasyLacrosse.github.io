@@ -232,12 +232,12 @@ $.getJSON("data/squads.json", function(squads) {
             var ti = $("<td>");
             $.each(manager["players"], function(undefined, namePlayer) {
                 var player = playerDict[namePlayer];
-                ti.append(player["gameweekpoints"]));            
+                ti.append(player["gameweekpoints"]);            
             });
             var ta = $("<td>");
             $.each(manager["players"], function(undefined, namePlayer) {
                 var player = playerDict[namePlayer];
-                ta.append(player["points"]));                
+                ta.append(player["points"]);                
             });            
             var tr = getRow(rank == 0 ? 1 : rank == managerList.length-1 ? -1 : 0);
             tr.append($("<td>").append(getPerson(manager)));
