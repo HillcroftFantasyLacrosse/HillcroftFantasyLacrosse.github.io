@@ -247,7 +247,7 @@ $.getJSON("data/squads.json", function(squads) {
             tr.append($("<td>").append(td));          
             tr.append($("<td>").append(ti));          
             tr.append($("<td>").append(ta));          
-            tr.append($("<td>").append("£" + manager["teamvalue"] + "m"));
+            tr.append($("<td>").append("£" + manager["teamvalue"].toFixed(1) + "m"));
             $("#table_teams").append(tr);
         });
     });
