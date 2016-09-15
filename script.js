@@ -375,15 +375,15 @@ function getDOD(data, sub) {
 
 function getFlag(player) {
     var img = $("<img>");
-    img.attr("src", "images/flags/" + player + ".GIF");
+    img.attr("src", "images/flags/images.GIF");
+    //img.attr("src", "images/flags/" + player + ".GIF");
     img.attr("style", "height: 28; width: 30; margin: 0 8");
     return img;
 }
 
 function getArrow(sub) {
     var img = $("<img>");
-    img.attr("src", "images/arrows/images.GIF");
-    //img.attr("src", "images/arrows/" + sub + ".GIF");
+    img.attr("src", "images/arrows/" + sub + ".GIF");
     img.attr("style", "height: 16; width: 16; margin: 0 8");
     return img;
 }
