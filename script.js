@@ -382,7 +382,8 @@ function getFlag(player) {
 
 function getArrow(sub) {
     var img = $("<img>");
-    img.attr("src", "images/arrows/" + sub + ".GIF");
+    img.attr("src", "images/arrows/images.GIF");
+    //img.attr("src", "images/arrows/" + sub + ".GIF");
     img.attr("style", "height: 16; width: 16; margin: 0 8");
     return img;
 }
