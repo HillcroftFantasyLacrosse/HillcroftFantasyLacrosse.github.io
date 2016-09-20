@@ -2,7 +2,7 @@
   
 {"Manager": {"manager": "Tom Paton", "teamname": ""}},
 {"Manager": {"manager": "Sam Scott", "teamname": ""}},
-{"Manager": {"manager": "Rhys Morgan", "teamname": ""}},
+{"Manager": {"manager": "Rhys Morgan", "teamname": "Rambo Number 5"}},
 {"Manager": {"manager": "Fred Hacking", "teamname": "Gammon Whoares"}},
 {"Manager": {"manager": "Giles Cuddy", "teamname": "Optimists"}},
 {"Manager": {"manager": "Tom Loake", "teamname": "LXM - Pro Tour"}},
@@ -29,7 +29,6 @@
 {"Draft": {"manager": "Giles Cuddy", "player": "Tom Paton"}},
 {"Draft": {"manager": "Giles Cuddy", "player": "John Wheeldon"}},
 
-{"Draft": {"manager": "Tom Loake", "player": "Mathew O'Leary"}},
 {"Draft": {"manager": "Tom Loake", "player": "Tom Loake"}},
 {"Draft": {"manager": "Tom Loake", "player": "Andrew Hopkins"}},
 {"Draft": {"manager": "Tom Loake", "player": "Henning Schmidt"}},
@@ -38,7 +37,18 @@
 {"Draft": {"manager": "Tom Loake", "player": "Liam Kirwan"}},
 {"Draft": {"manager": "Tom Loake", "player": "Brian Potter"}},
 {"Draft": {"manager": "Tom Loake", "player": "Eoin Dunne"}},
-{"Draft": {"manager": "Tom Loake", "player": "Matt Tanner"}}
+{"Draft": {"manager": "Tom Loake", "player": "Matt Tanner"}},
+
+{"Draft": {"manager": "Rhys Morgan", "player": "Luke Hamilton"}},
+{"Draft": {"manager": "Rhys Morgan", "player": "Tom Loake"}},
+{"Draft": {"manager": "Rhys Morgan", "player": "Ben Jessup"}},
+{"Draft": {"manager": "Rhys Morgan", "player": "Jamie Bodnar-Horvarth"}},
+{"Draft": {"manager": "Rhys Morgan", "player": "Harry Collins"}},
+{"Draft": {"manager": "Rhys Morgan", "player": "Mark Thresher"}},
+{"Draft": {"manager": "Rhys Morgan", "player": "Jack Crawly"}},
+{"Draft": {"manager": "Rhys Morgan", "player": "Eoin Dunne"}},
+{"Draft": {"manager": "Rhys Morgan", "player": "Rob Clark"}},
+{"Draft": {"manager": "Rhys Morgan", "player": "Tom Paton"}}
 
 ]
 
