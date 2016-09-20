@@ -5,7 +5,18 @@
 {"Manager": {"manager": "Rhys Morgan", "teamname": ""}},
 {"Manager": {"manager": "Fred Hacking", "teamname": "Gammon Whoares"}},
 {"Manager": {"manager": "Giles Cuddy", "teamname": "Optimists"}},
-{"Manager": {"manager": "Tom Loake", "teamname": "LXM - Pro Tour"}}
+{"Manager": {"manager": "Tom Loake", "teamname": "LXM - Pro Tour"}},
+
+{"Draft": {"manager": "Fred Hacking", "player": "Rhydian Robinson"}},
+{"Draft": {"manager": "Fred Hacking", "player": "Rufus Parkes"}},
+{"Draft": {"manager": "Fred Hacking", "player": "Stephen King"}},
+{"Draft": {"manager": "Fred Hacking", "player": "Andrew Hopkins"}},
+{"Draft": {"manager": "Fred Hacking", "player": "Robin Van der Harst"}},
+{"Draft": {"manager": "Fred Hacking", "player": "Rhys Morgan"}},
+{"Draft": {"manager": "Fred Hacking", "player": "Henry Bliss"}},
+{"Draft": {"manager": "Fred Hacking", "player": "Brian Potter"}},
+{"Draft": {"manager": "Fred Hacking", "player": "Tom Paton"}},
+{"Draft": {"manager": "Fred Hacking", "player": "John Wheeldon"}}
 
 ]
 
