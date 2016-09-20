@@ -7,7 +7,10 @@
 {"Manager": {"manager": "Giles Cuddy", "teamname": "Optimists"}},
 {"Manager": {"manager": "Tom Loake", "teamname": "LXM - Pro Tour"}},
 
-{"Draft": {"manager": "Fred Hacking", "player": "Rhydian Robinson"}}
+{"Draft": {"manager": "Fred Hacking", "player": "Rhydian Robinson"}},
+{"Draft": {"manager": "Fred Hacking", "player": "Rufus Parkes"}},
+{"Draft": {"manager": "Fred Hacking", "player": "Stephen King"}},
+{"Draft": {"manager": "Fred Hacking", "player": "Andrew Hopkins"}}
 
 ]
 
