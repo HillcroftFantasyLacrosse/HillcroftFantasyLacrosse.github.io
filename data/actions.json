@@ -6,6 +6,7 @@
 {"Manager": {"manager": "Fred Hacking", "teamname": "Gammon Whoares"}},
 {"Manager": {"manager": "Giles Cuddy", "teamname": "Optimists"}},
 {"Manager": {"manager": "Tom Loake", "teamname": "LXM - Pro Tour"}},
+{"Manager": {"manager": "James Prescott", "teamname": "2 Goals 1 Cup"}},
 
 {"Draft": {"manager": "Fred Hacking", "player": "Rhydian Robinson"}},
 {"Draft": {"manager": "Fred Hacking", "player": "Rufus Parkes"}},
@@ -49,7 +50,18 @@
 {"Draft": {"manager": "Rhys Morgan", "player": "Jack Crawly"}},
 {"Draft": {"manager": "Rhys Morgan", "player": "Eoin Dunne"}},
 {"Draft": {"manager": "Rhys Morgan", "player": "Rob Clark"}},
-{"Draft": {"manager": "Rhys Morgan", "player": "Tom Paton"}}
+{"Draft": {"manager": "Rhys Morgan", "player": "Tom Paton"}},
+
+{"Draft": {"manager": "James Prescott", "player": "Rhydian Robinson"}},
+{"Draft": {"manager": "James Prescott", "player": "James Prescott"}},
+{"Draft": {"manager": "James Prescott", "player": "Chuk Orakwusi"}},
+{"Draft": {"manager": "James Prescott", "player": "Alex Darby"}},
+{"Draft": {"manager": "James Prescott", "player": "Aaron Fox"}},
+{"Draft": {"manager": "James Prescott", "player": "Rhodri Stanford"}},
+{"Draft": {"manager": "James Prescott", "player": "Alex Twiss"}},
+{"Draft": {"manager": "James Prescott", "player": "John Wheeldon"}},
+{"Draft": {"manager": "James Prescott", "player": "Tom Paton"}},
+{"Draft": {"manager": "James Prescott", "player": "Duncan Trenholme"}}
 
 ]
 
