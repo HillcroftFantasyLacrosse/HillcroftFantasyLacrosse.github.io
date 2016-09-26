@@ -7,6 +7,8 @@
 {"Manager": {"manager": "Giles Cuddy", "teamname": "Optimists"}},
 {"Manager": {"manager": "Tom Loake", "teamname": "LXM - Pro Tour"}},
 {"Manager": {"manager": "James Prescott", "teamname": "2 Goals 1 Cup"}},
+{"Manager": {"manager": "Mark Woollard", "teamname": "Woollards Cock Hunters"}},
+{"Manager": {"manager": "David Christian", "teamname": "Hotdog Ron's Party Boys"}},
 
 {"Draft": {"manager": "Fred Hacking", "player": "Rhydian Robinson"}},
 {"Draft": {"manager": "Fred Hacking", "player": "Rufus Parkes"}},
@@ -61,8 +63,30 @@
 {"Draft": {"manager": "James Prescott", "player": "Alex Twiss"}},
 {"Draft": {"manager": "James Prescott", "player": "John Wheeldon"}},
 {"Draft": {"manager": "James Prescott", "player": "Tom Paton"}},
-{"Draft": {"manager": "James Prescott", "player": "Duncan Trenholme"}}
+{"Draft": {"manager": "James Prescott", "player": "Duncan Trenholme"}},
+  
+{"Draft": {"manager": "Mark Woollard", "player": "Rhydian Robinson"}},  
+{"Draft": {"manager": "Mark Woollard", "player": "Dom Fletcher"}},  
+{"Draft": {"manager": "Mark Woollard", "player": "Stephen King"}},  
+{"Draft": {"manager": "Mark Woollard", "player": "Ben Jessup"}},  
+{"Draft": {"manager": "Mark Woollard", "player": "Rhys Morgan"}},  
+{"Draft": {"manager": "Mark Woollard", "player": "Zak Jordan"}},  
+{"Draft": {"manager": "Mark Woollard", "player": "Hector Smethurst"}},  
+{"Draft": {"manager": "Mark Woollard", "player": "Duncan Trenholme"}},  
+{"Draft": {"manager": "Mark Woollard", "player": "Tom Paton"}},  
+{"Draft": {"manager": "Mark Woollard", "player": "Eoin Dunne"}},
 
+{"Draft": {"manager": "David Christian", "player": "Rhydian Robinson"}},
+{"Draft": {"manager": "David Christian", "player": "Henning Schmidt"}},
+{"Draft": {"manager": "David Christian", "player": "Dom Fletcher"}},
+{"Draft": {"manager": "David Christian", "player": "Jamie Bodnar-Horvarth"}},
+{"Draft": {"manager": "David Christian", "player": "Cane Napolitano"}},
+{"Draft": {"manager": "David Christian", "player": "Liam Kirwan"}},
+{"Draft": {"manager": "David Christian", "player": "Hector Smethurst"}},
+{"Draft": {"manager": "David Christian", "player": "Brian Potter"}},
+{"Draft": {"manager": "David Christian", "player": "Ben Stringer"}},
+{"Draft": {"manager": "David Christian", "player": "Ken Koi"}}
+  
 ]
 
   
