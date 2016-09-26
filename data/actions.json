@@ -10,6 +10,8 @@
 {"Manager": {"manager": "Mark Woollard", "teamname": "Woollards Cock Hunters"}},
 {"Manager": {"manager": "David Christian", "teamname": "Hotdog Ron's Party Boys"}},
 {"Manager": {"manager": "Peter Griffin", "teamname": "Bentley Griffin's Black and Gold army"}},
+{"Manager": {"manager": "Tom Lace", "teamname": "Desperados"}},
+{"Manager": {"manager": "Albert Whitehead", "teamname": "In Rhod We Trust"}},
 
 {"Draft": {"manager": "Fred Hacking", "player": "Rhydian Robinson"}},
 {"Draft": {"manager": "Fred Hacking", "player": "Rufus Parkes"}},
@@ -97,7 +99,29 @@
 {"Draft": {"manager": "Peter Griffin", "player": "Rhodri Stanford"}},
 {"Draft": {"manager": "Peter Griffin", "player": "Fred Hacking"}},
 {"Draft": {"manager": "Peter Griffin", "player": "Tom Paton"}},
-{"Draft": {"manager": "Peter Griffin", "player": "Rob Clark"}}
+{"Draft": {"manager": "Peter Griffin", "player": "Rob Clark"}},
+  
+{"Draft": {"manager": "Tom Lace", "player": "Rhydian Robinson"}},
+{"Draft": {"manager": "Tom Lace", "player": "Andrew Hopkins"}},
+{"Draft": {"manager": "Tom Lace", "player": "Tom Loake"}},
+{"Draft": {"manager": "Tom Lace", "player": "Ben Jessup"}},
+{"Draft": {"manager": "Tom Lace", "player": "Rhys Morgan"}},
+{"Draft": {"manager": "Tom Lace", "player": "Henry Blackhurst"}},
+{"Draft": {"manager": "Tom Lace", "player": "Tim Scott"}},
+{"Draft": {"manager": "Tom Lace", "player": "Ken Koi"}},
+{"Draft": {"manager": "Tom Lace", "player": "Ben Stringer"}},
+{"Draft": {"manager": "Tom Lace", "player": "Matt Tanner"}},
+  
+{"Draft": {"manager": "Albert Whitehead", "player": "Rhydian Robinson"}},
+{"Draft": {"manager": "Albert Whitehead", "player": "Alex Darby"}},
+{"Draft": {"manager": "Albert Whitehead", "player": "Tom Loake"}},
+{"Draft": {"manager": "Albert Whitehead", "player": "Ben Jessup"}},
+{"Draft": {"manager": "Albert Whitehead", "player": "Chris Turner"}},
+{"Draft": {"manager": "Albert Whitehead", "player": "Rhodri Stanford"}},
+{"Draft": {"manager": "Albert Whitehead", "player": "Liam Kirwan"}},
+{"Draft": {"manager": "Albert Whitehead", "player": "Tom Paton"}},
+{"Draft": {"manager": "Albert Whitehead", "player": "Matt Tanner"}},
+{"Draft": {"manager": "Albert Whitehead", "player": "Brian Potter"}}
   
 ]
 
