@@ -9,6 +9,7 @@
 {"Manager": {"manager": "James Prescott", "teamname": "2 Goals 1 Cup"}},
 {"Manager": {"manager": "Mark Woollard", "teamname": "Woollards Cock Hunters"}},
 {"Manager": {"manager": "David Christian", "teamname": "Hotdog Ron's Party Boys"}},
+{"Manager": {"manager": "Peter Griffin", "teamname": "Bentley Griffin's Black and Gold army"}},
 
 {"Draft": {"manager": "Fred Hacking", "player": "Rhydian Robinson"}},
 {"Draft": {"manager": "Fred Hacking", "player": "Rufus Parkes"}},
@@ -85,7 +86,18 @@
 {"Draft": {"manager": "David Christian", "player": "Hector Smethurst"}},
 {"Draft": {"manager": "David Christian", "player": "Brian Potter"}},
 {"Draft": {"manager": "David Christian", "player": "Ben Stringer"}},
-{"Draft": {"manager": "David Christian", "player": "Ken Koi"}}
+{"Draft": {"manager": "David Christian", "player": "Ken Koi"}},
+  
+{"Draft": {"manager": "Peter Griffin", "player": "Rhydian Robinson"}},
+{"Draft": {"manager": "Peter Griffin", "player": "Dom Fletcher"}},
+{"Draft": {"manager": "Peter Griffin", "player": "Sam Scott"}},
+{"Draft": {"manager": "Peter Griffin", "player": "Andrew Hopkins"}},
+{"Draft": {"manager": "Peter Griffin", "player": "Hector Smethurst"}},
+{"Draft": {"manager": "Peter Griffin", "player": "Andrew Macpherson"}},
+{"Draft": {"manager": "Peter Griffin", "player": "Rhodri Stanford"}},
+{"Draft": {"manager": "Peter Griffin", "player": "Fred Hacking"}},
+{"Draft": {"manager": "Peter Griffin", "player": "Tom Paton"}},
+{"Draft": {"manager": "Peter Griffin", "player": "Rob Clark"}}
   
 ]
 
