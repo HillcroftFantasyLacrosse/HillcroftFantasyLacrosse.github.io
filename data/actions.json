@@ -16,6 +16,7 @@
 {"Manager": {"manager": "Chris Turner", "teamname": "Welcome to HELLcroft"}},
 {"Manager": {"manager": "Hector Smethurst", "teamname": "The Names The Least Important Bit"}},
 {"Manager": {"manager": "Mathew O'Leary", "teamname": "Fingers Fun Club"}},
+{"Manager": {"manager": "Sam Scott", "teamname": "Twiss and Shout"}},
 
 {"Draft": {"manager": "Fred Hacking", "player": "Rhydian Robinson"}},
 {"Draft": {"manager": "Fred Hacking", "player": "Rufus Parkes"}},
@@ -169,7 +170,18 @@
 {"Draft": {"manager": "Mathew O'Leary", "player": "Simon Moss"}},
 {"Draft": {"manager": "Mathew O'Leary", "player": "Matt Tanner"}},
 {"Draft": {"manager": "Mathew O'Leary", "player": "Brian Potter"}},
-{"Draft": {"manager": "Mathew O'Leary", "player": "Eoin Dunne"}}
+{"Draft": {"manager": "Mathew O'Leary", "player": "Eoin Dunne"}},
+  
+{"Draft": {"manager": "Sam Scott", "player": "Rhydian Robinson"}},
+{"Draft": {"manager": "Sam Scott", "player": "Ed Biegel"}},
+{"Draft": {"manager": "Sam Scott", "player": "Tom Loake"}},
+{"Draft": {"manager": "Sam Scott", "player": "Ben Jessup"}},
+{"Draft": {"manager": "Sam Scott", "player": "Alex Twiss"}},
+{"Draft": {"manager": "Sam Scott", "player": "Rhodri Stanford"}},
+{"Draft": {"manager": "Sam Scott", "player": "Aaron Fox"}},
+{"Draft": {"manager": "Sam Scott", "player": "Tom Paton"}},
+{"Draft": {"manager": "Sam Scott", "player": "Eoin Dunne"}},
+{"Draft": {"manager": "Sam Scott", "player": "Richard Gorr"}}
   
 ]
 
