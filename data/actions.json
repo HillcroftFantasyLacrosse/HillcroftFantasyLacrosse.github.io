@@ -13,6 +13,9 @@
 {"Manager": {"manager": "Tom Lace", "teamname": "Desperados"}},
 {"Manager": {"manager": "Albert Whitehead", "teamname": "In Rhod We Trust"}},
 {"Manager": {"manager": "Matt Tanner", "teamname": "TANNER"}},
+{"Manager": {"manager": "Chris Turner", "teamname": "Welcome to HELLcroft"}},
+{"Manager": {"manager": "Hector Smethurst", "teamname": "The Names The Least Important Bit"}},
+{"Manager": {"manager": "Mathew O'Leary", "teamname": "Fingers Fun Club"}},
 
 {"Draft": {"manager": "Fred Hacking", "player": "Rhydian Robinson"}},
 {"Draft": {"manager": "Fred Hacking", "player": "Rufus Parkes"}},
@@ -133,7 +136,40 @@
 {"Draft": {"manager": "Matt Tanner", "player": "Tom Ridings"}},
 {"Draft": {"manager": "Matt Tanner", "player": "Brian Potter"}},
 {"Draft": {"manager": "Matt Tanner", "player": "Tom Paton"}},
-{"Draft": {"manager": "Matt Tanner", "player": "Matt Tanner"}}
+{"Draft": {"manager": "Matt Tanner", "player": "Matt Tanner"}},
+  
+{"Draft": {"manager": "Chris Turner", "player": "Luke Hamilton"}},
+{"Draft": {"manager": "Chris Turner", "player": "Andrew Hopkins"}},
+{"Draft": {"manager": "Chris Turner", "player": "Ben Jessup"}},
+{"Draft": {"manager": "Chris Turner", "player": "Peter Griffin"}},
+{"Draft": {"manager": "Chris Turner", "player": "Henry Bliss"}},
+{"Draft": {"manager": "Chris Turner", "player": "Liam Kirwan"}},
+{"Draft": {"manager": "Chris Turner", "player": "Zach Corey"}},
+{"Draft": {"manager": "Chris Turner", "player": "Fred Hacking"}},
+{"Draft": {"manager": "Chris Turner", "player": "Brian Potter"}},
+{"Draft": {"manager": "Chris Turner", "player": "Tom Paton"}},
+  
+{"Draft": {"manager": "Hector Smethurst", "player": "Rhydian Robinson"}},
+{"Draft": {"manager": "Hector Smethurst", "player": "Alex Darby"}},
+{"Draft": {"manager": "Hector Smethurst", "player": "Andrew Hopkins"}},
+{"Draft": {"manager": "Hector Smethurst", "player": "Ed Biegel"}},
+{"Draft": {"manager": "Hector Smethurst", "player": "Chris Turner"}},
+{"Draft": {"manager": "Hector Smethurst", "player": "Albert Whitehead"}},
+{"Draft": {"manager": "Hector Smethurst", "player": "Aaron Fox"}},
+{"Draft": {"manager": "Hector Smethurst", "player": "Fred Hacking"}},
+{"Draft": {"manager": "Hector Smethurst", "player": "Tom Paton"}},
+{"Draft": {"manager": "Hector Smethurst", "player": "Jon Arthur"}},
+  
+{"Draft": {"manager": "Mathew O'Leary", "player": "Rhydian Robinson"}},
+{"Draft": {"manager": "Mathew O'Leary", "player": "Andrew Hopkins"}},
+{"Draft": {"manager": "Mathew O'Leary", "player": "John Goodwin"}},
+{"Draft": {"manager": "Mathew O'Leary", "player": "Stephen King"}},
+{"Draft": {"manager": "Mathew O'Leary", "player": "Andrew Macpherson"}},
+{"Draft": {"manager": "Mathew O'Leary", "player": "Rhodri Stanford"}},
+{"Draft": {"manager": "Mathew O'Leary", "player": "Simon Moss"}},
+{"Draft": {"manager": "Mathew O'Leary", "player": "Matt Tanner"}},
+{"Draft": {"manager": "Mathew O'Leary", "player": "Brian Potter"}},
+{"Draft": {"manager": "Mathew O'Leary", "player": "Eoin Dunne"}}
   
 ]
 
