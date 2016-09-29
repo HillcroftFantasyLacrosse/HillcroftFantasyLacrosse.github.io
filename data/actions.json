@@ -16,6 +16,7 @@
 {"Manager": {"manager": "Hector Smethurst", "teamname": "The Names The Least Important Bit"}},
 {"Manager": {"manager": "Mathew O'Leary", "teamname": "Fingers Fun Club"}},
 {"Manager": {"manager": "Sam Scott", "teamname": "Twiss and Shout"}},
+{"Manager": {"manager": "Eoin Dunne", "teamname": "Wales 12-8 Scotland"}},
 
 {"Draft": {"manager": "Fred Hacking", "player": "Rhydian Robinson"}},
 {"Draft": {"manager": "Fred Hacking", "player": "Rufus Parkes"}},
@@ -180,7 +181,18 @@
 {"Draft": {"manager": "Sam Scott", "player": "Aaron Fox"}},
 {"Draft": {"manager": "Sam Scott", "player": "Tom Paton"}},
 {"Draft": {"manager": "Sam Scott", "player": "Eoin Dunne"}},
-{"Draft": {"manager": "Sam Scott", "player": "Richard Gorr"}}
+{"Draft": {"manager": "Sam Scott", "player": "Richard Gorr"}},
+  
+{"Draft": {"manager": "Eoin Dunne", "player": "Rhydian Robinson"}},
+{"Draft": {"manager": "Eoin Dunne", "player": "James Prescott"}},
+{"Draft": {"manager": "Eoin Dunne", "player": "Andrew Hopkins"}},
+{"Draft": {"manager": "Eoin Dunne", "player": "Jamie Bodnar-Horvarth"}},
+{"Draft": {"manager": "Eoin Dunne", "player": "Jack Crawly"}},
+{"Draft": {"manager": "Eoin Dunne", "player": "Liam Kirwan"}},
+{"Draft": {"manager": "Eoin Dunne", "player": "Mark Thresher"}},
+{"Draft": {"manager": "Eoin Dunne", "player": "Ben Stringer"}},
+{"Draft": {"manager": "Eoin Dunne", "player": "Ken Koi"}},
+{"Draft": {"manager": "Eoin Dunne", "player": "Matt Tanner"}}
   
 ]
 
