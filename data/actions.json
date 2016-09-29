@@ -1,6 +1,6 @@
 [
   
-{"Manager": {"manager": "Tom Paton", "teamname": ""}},
+{"Manager": {"manager": "Tom Paton", "teamname": "Last Trenholme"}},
 {"Manager": {"manager": "Rhys Morgan", "teamname": "Rambo Number 5"}},
 {"Manager": {"manager": "Fred Hacking", "teamname": "Gammon Whoares"}},
 {"Manager": {"manager": "Giles Cuddy", "teamname": "Optimists"}},
@@ -17,7 +17,14 @@
 {"Manager": {"manager": "Mathew O'Leary", "teamname": "Fingers Fun Club"}},
 {"Manager": {"manager": "Sam Scott", "teamname": "Twiss and Shout"}},
 {"Manager": {"manager": "Eoin Dunne", "teamname": "Wales 12-8 Scotland"}},
-
+{"Manager": {"manager": "Zach Michel", "teamname": "Zach (Corey) Michel"}},
+{"Manager": {"manager": "", "teamname": ""}},
+{"Manager": {"manager": "", "teamname": ""}},
+{"Manager": {"manager": "", "teamname": ""}},
+{"Manager": {"manager": "", "teamname": ""}},
+{"Manager": {"manager": "", "teamname": ""}},
+{"Manager": {"manager": "", "teamname": ""}},
+  
 {"Draft": {"manager": "Fred Hacking", "player": "Rhydian Robinson"}},
 {"Draft": {"manager": "Fred Hacking", "player": "Rufus Parkes"}},
 {"Draft": {"manager": "Fred Hacking", "player": "Stephen King"}},
@@ -51,15 +58,15 @@
 {"Draft": {"manager": "Tom Loake", "player": "Eoin Dunne"}},
 {"Draft": {"manager": "Tom Loake", "player": "Matt Tanner"}},
 
-{"Draft": {"manager": "Rhys Morgan", "player": "Luke Hamilton"}},
-{"Draft": {"manager": "Rhys Morgan", "player": "Tom Loake"}},
-{"Draft": {"manager": "Rhys Morgan", "player": "Ben Jessup"}},
+{"Draft": {"manager": "Rhys Morgan", "player": "Dawid Kaczmarski"}},
+{"Draft": {"manager": "Rhys Morgan", "player": "Rufus Parkes"}},
+{"Draft": {"manager": "Rhys Morgan", "player": "Dom Fletcher"}},
 {"Draft": {"manager": "Rhys Morgan", "player": "Jamie Bodnar-Horvarth"}},
 {"Draft": {"manager": "Rhys Morgan", "player": "Harry Collins"}},
-{"Draft": {"manager": "Rhys Morgan", "player": "Mark Thresher"}},
-{"Draft": {"manager": "Rhys Morgan", "player": "Jack Crawly"}},
-{"Draft": {"manager": "Rhys Morgan", "player": "Eoin Dunne"}},
-{"Draft": {"manager": "Rhys Morgan", "player": "Rob Clark"}},
+{"Draft": {"manager": "Rhys Morgan", "player": "Aaron Fox"}},
+{"Draft": {"manager": "Rhys Morgan", "player": "Rhys Morgan"}},
+{"Draft": {"manager": "Rhys Morgan", "player": "John Wheeldon"}},
+{"Draft": {"manager": "Rhys Morgan", "player": "Richard Gorr"}},
 {"Draft": {"manager": "Rhys Morgan", "player": "Tom Paton"}},
 
 {"Draft": {"manager": "James Prescott", "player": "Rhydian Robinson"}},
@@ -145,7 +152,7 @@
 {"Draft": {"manager": "Chris Turner", "player": "Peter Griffin"}},
 {"Draft": {"manager": "Chris Turner", "player": "Henry Bliss"}},
 {"Draft": {"manager": "Chris Turner", "player": "Liam Kirwan"}},
-{"Draft": {"manager": "Chris Turner", "player": "Zach Corey"}},
+{"Draft": {"manager": "Chris Turner", "player": "Zach Michel"}},
 {"Draft": {"manager": "Chris Turner", "player": "Fred Hacking"}},
 {"Draft": {"manager": "Chris Turner", "player": "Brian Potter"}},
 {"Draft": {"manager": "Chris Turner", "player": "Tom Paton"}},
@@ -192,7 +199,29 @@
 {"Draft": {"manager": "Eoin Dunne", "player": "Mark Thresher"}},
 {"Draft": {"manager": "Eoin Dunne", "player": "Ben Stringer"}},
 {"Draft": {"manager": "Eoin Dunne", "player": "Ken Koi"}},
-{"Draft": {"manager": "Eoin Dunne", "player": "Matt Tanner"}}
+{"Draft": {"manager": "Eoin Dunne", "player": "Matt Tanner"}},
+  
+{"Draft": {"manager": "Tom Paton", "player": "Rhydian Robinson"}},
+{"Draft": {"manager": "Tom Paton", "player": "Jamie Bodnar-Horvarth"}},
+{"Draft": {"manager": "Tom Paton", "player": "Ed Biegel"}},
+{"Draft": {"manager": "Tom Paton", "player": "Dom Fletcher"}},
+{"Draft": {"manager": "Tom Paton", "player": "Liam Kirwan"}},
+{"Draft": {"manager": "Tom Paton", "player": "Alex Twiss"}},
+{"Draft": {"manager": "Tom Paton", "player": "Henry Bliss"}},
+{"Draft": {"manager": "Tom Paton", "player": "Tom Paton"}},
+{"Draft": {"manager": "Tom Paton", "player": "John Wheeldon"}},
+{"Draft": {"manager": "Tom Paton", "player": "Eoin Dunne"}},
+  
+{"Draft": {"manager": "Zach Michel", "player": "Luke Hamilton"}},
+{"Draft": {"manager": "Zach Michel", "player": "Adam Scott"}},
+{"Draft": {"manager": "Zach Michel", "player": "John Goodwin"}},
+{"Draft": {"manager": "Zach Michel", "player": "Adam White"}},
+{"Draft": {"manager": "Zach Michel", "player": "Rob Nichols"}},
+{"Draft": {"manager": "Zach Michel", "player": "Zach Michel"}},
+{"Draft": {"manager": "Zach Michel", "player": "Rhodri Stanford"}},
+{"Draft": {"manager": "Zach Michel", "player": "John Wheeldon"}},
+{"Draft": {"manager": "Zach Michel", "player": "Jon Arthur"}},
+{"Draft": {"manager": "Zach Michel", "player": "Rob Clark"}}
   
 ]
 
