@@ -24,6 +24,9 @@
 {"Manager": {"manager": "Henning Schmidt", "teamname": "Clean Your Guns"}},
 {"Manager": {"manager": "Richard Gorr", "teamname": "Hold My Beer"}},
 {"Manager": {"manager": "Zak Jordan", "teamname": "Hillwhat? Hillcroft!"}},
+{"Manager": {"manager": "Ken Koi", "teamname": "KK's Bitches"}},
+{"Manager": {"manager": "Tim Scott", "teamname": "Aussie Rules"}},
+{"Manager": {"manager": "John Wheeldon", "teamname": "How Do You Like Them Apples?"}},
   
 {"Draft": {"manager": "Fred Hacking", "player": "Rhydian Robinson"}},
 {"Draft": {"manager": "Fred Hacking", "player": "Rufus Parkes"}},
@@ -287,7 +290,40 @@
 {"Draft": {"manager": "Zak Jordan", "player": "Evan Yeckley"}},  
 {"Draft": {"manager": "Zak Jordan", "player": "Matt Tanner"}},  
 {"Draft": {"manager": "Zak Jordan", "player": "Eoin Dunne"}},  
-{"Draft": {"manager": "Zak Jordan", "player": "Brian Potter"}} 
+{"Draft": {"manager": "Zak Jordan", "player": "Brian Potter"}},
+  
+{"Draft": {"manager": "Ken Koi", "player": "Rhydian Robinson"}},
+{"Draft": {"manager": "Ken Koi", "player": "Tom Loake"}},
+{"Draft": {"manager": "Ken Koi", "player": "Dom Fletcher"}},
+{"Draft": {"manager": "Ken Koi", "player": "Peter Griffin"}},
+{"Draft": {"manager": "Ken Koi", "player": "Andrew Machpherson"}},
+{"Draft": {"manager": "Ken Koi", "player": "Jack Crawly"}},
+{"Draft": {"manager": "Ken Koi", "player": "Evan Yeckley"}},
+{"Draft": {"manager": "Ken Koi", "player": "Richard Gorr"}},
+{"Draft": {"manager": "Ken Koi", "player": "John Wheeldon"}},
+{"Draft": {"manager": "Ken Koi", "player": "Ken Koi"}},
+  
+{"Draft": {"manager": "Tim Scott", "player": "Mathew O'Leary"}},
+{"Draft": {"manager": "Tim Scott", "player": "Tom Loake"}},
+{"Draft": {"manager": "Tim Scott", "player": "James Prescott"}},
+{"Draft": {"manager": "Tim Scott", "player": "Peter Griffin"}},
+{"Draft": {"manager": "Tim Scott", "player": "Tim Scott"}},
+{"Draft": {"manager": "Tim Scott", "player": "Albert Whitehead"}},
+{"Draft": {"manager": "Tim Scott", "player": "Tom Lace"}},
+{"Draft": {"manager": "Tim Scott", "player": "Fred Hacking"}},
+{"Draft": {"manager": "Tim Scott", "player": "Richard Gorr"}},
+{"Draft": {"manager": "Tim Scott", "player": "Ken Koi"}},
+
+{"Draft": {"manager": "John Wheeldon", "player": "Rhydian Robinson"}},
+{"Draft": {"manager": "John Wheeldon", "player": "Jamie Bodnar-Horvarth"}},
+{"Draft": {"manager": "John Wheeldon", "player": "Rufus Parkes"}},
+{"Draft": {"manager": "John Wheeldon", "player": "Chris McCann"}},
+{"Draft": {"manager": "John Wheeldon", "player": "Evan Yeckley"}},
+{"Draft": {"manager": "John Wheeldon", "player": "Liam Kirwan"}},
+{"Draft": {"manager": "John Wheeldon", "player": "Henry Blackhurst"}},
+{"Draft": {"manager": "John Wheeldon", "player": "John Wheeldon"}},
+{"Draft": {"manager": "John Wheeldon", "player": "Tom Paton"}},
+{"Draft": {"manager": "John Wheeldon", "player": "Richard Gorr"}}
   
 ]
 
