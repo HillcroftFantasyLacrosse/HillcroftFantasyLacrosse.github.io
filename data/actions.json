@@ -27,6 +27,9 @@
 {"Manager": {"manager": "Ken Koi", "teamname": "KK's Bitches"}},
 {"Manager": {"manager": "Tim Scott", "teamname": "Aussie Rules"}},
 {"Manager": {"manager": "John Wheeldon", "teamname": "How Do You Like Them Apples?"}},
+{"Manager": {"manager": "Ben Stothard", "teamname": "Horny Halibuts"}},
+{"Manager": {"manager": "Alex Harris", "teamname": "In Pedro We Trust"}},
+{"Manager": {"manager": "Ed Biegel", "teamname": "Hubly Jubbly"}},
   
 {"Draft": {"manager": "Fred Hacking", "player": "Rhydian Robinson"}},
 {"Draft": {"manager": "Fred Hacking", "player": "Rufus Parkes"}},
@@ -323,7 +326,40 @@
 {"Draft": {"manager": "John Wheeldon", "player": "Henry Blackhurst"}},
 {"Draft": {"manager": "John Wheeldon", "player": "John Wheeldon"}},
 {"Draft": {"manager": "John Wheeldon", "player": "Tom Paton"}},
-{"Draft": {"manager": "John Wheeldon", "player": "Richard Gorr"}}
+{"Draft": {"manager": "John Wheeldon", "player": "Richard Gorr"}},
+  
+{"Draft": {"manager": "Ben Stothard", "player": "Rhydian Robinson"}},
+{"Draft": {"manager": "Ben Stothard", "player": "Tom Loake"}},
+{"Draft": {"manager": "Ben Stothard", "player": "Jamie Bodnar-Horvarth"}},
+{"Draft": {"manager": "Ben Stothard", "player": "Andrew Hopkins"}},
+{"Draft": {"manager": "Ben Stothard", "player": "Chris Turner"}},
+{"Draft": {"manager": "Ben Stothard", "player": "Jack Crawly"}},
+{"Draft": {"manager": "Ben Stothard", "player": "Harry Collins"}},
+{"Draft": {"manager": "Ben Stothard", "player": "Duncan Trenholme"}},
+{"Draft": {"manager": "Ben Stothard", "player": "Matt Tanner"}},
+{"Draft": {"manager": "Ben Stothard", "player": "Rob Clark"}},
+  
+{"Draft": {"manager": "Alex Harris", "player": "Rhydian Robinson"}},
+{"Draft": {"manager": "Alex Harris", "player": "Ben Jessup"}},
+{"Draft": {"manager": "Alex Harris", "player": "Tom Loake"}},
+{"Draft": {"manager": "Alex Harris", "player": "Sam Scott"}},
+{"Draft": {"manager": "Alex Harris", "player": "Zach Corey"}},
+{"Draft": {"manager": "Alex Harris", "player": "Rhys Morgan"}},
+{"Draft": {"manager": "Alex Harris", "player": "Liam Kirwan"}},
+{"Draft": {"manager": "Alex Harris", "player": "Eoin Dunne"}},
+{"Draft": {"manager": "Alex Harris", "player": "Matt Tanner"}},
+{"Draft": {"manager": "Alex Harris", "player": "Rob Clark"}},
+  
+{"Draft": {"manager": "Ed Biegel", "player": "Rhydian Robinson"}},
+{"Draft": {"manager": "Ed Biegel", "player": "Adam Scott"}},
+{"Draft": {"manager": "Ed Biegel", "player": "Rufus Parkes"}},
+{"Draft": {"manager": "Ed Biegel", "player": "Tom Loake"}},
+{"Draft": {"manager": "Ed Biegel", "player": "Tim Scott"}},
+{"Draft": {"manager": "Ed Biegel", "player": "Mark Thresher"}},
+{"Draft": {"manager": "Ed Biegel", "player": "Liam Kirwan"}},
+{"Draft": {"manager": "Ed Biegel", "player": "Tom Paton"}},
+{"Draft": {"manager": "Ed Biegel", "player": "John Wheeldon"}},
+{"Draft": {"manager": "Ed Biegel", "player": "Rob Clark"}}
   
 ]
 
