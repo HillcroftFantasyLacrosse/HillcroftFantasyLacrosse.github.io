@@ -447,8 +447,12 @@
 {"Points":{"player":"Rhydian Robinson","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 4,"Penalty": 1,"mom":1,"dod":0}},
 {"Points":{"player":"Rhys Morgan","Assist": 0,"Goal":1,"Appearance":1,"Goals Conceded": 4,"Penalty": 0,"mom":0,"dod":0}},
 {"Points":{"player":"Sam Scott","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 4,"Penalty": 0,"mom":0,"dod":0}},
-{"Points":{"player":"Tom Paton","Assist": 0,"Goal":1,"Appearance":1,"Goals Conceded": 0,"Penalty": 0,"mom":0,"dod":0}}
-  
+{"Points":{"player":"Tom Paton","Assist": 0,"Goal":1,"Appearance":1,"Goals Conceded": 0,"Penalty": 0,"mom":0,"dod":0}},
+{"Points":{"player":"Zach Michel","Assist": 0,"Goal":1,"Appearance":1,"Goals Conceded": 4,"Penalty": 0.5,"mom":0,"dod":0}},
+{"Points":{"player":"Adam Scott","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}},
+{"Points":{"player":"Alex Harris","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}},
+{"Points":{"player":"Andrew Macpherson","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}},
+{"Points":{"player":"Ben Jessup","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 3,"Penalty": 1,"mom":0,"dod":0}}
 ]
 
   
