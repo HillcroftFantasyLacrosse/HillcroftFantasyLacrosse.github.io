@@ -431,42 +431,7 @@
 {"Draft": {"manager": "Liam Kirwan", "player": "Mark Thresher"}}, 
 {"Draft": {"manager": "Liam Kirwan", "player": "Richard Gorr"}}, 
 {"Draft": {"manager": "Liam Kirwan", "player": "Matt Tanner"}}, 
-{"Draft": {"manager": "Liam Kirwan", "player": "Brian Potter"}},
-  
-{"Points":{"player":"Albert Whitehead","Assist": 1,"Goal":0,"Appearance":1,"Goals Conceded": 4,"Penalty": 0,"mom":0,"dod":1}},
-{"Points":{"player":"Bradd Tippler","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 4,"Penalty": 0,"mom":0,"dod":0}},
-{"Points":{"player":"Ed Biegel","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 4,"Penalty": 0,"mom":0,"dod":0}},
-{"Points":{"player":"Evan Yeckley","Assist": 0,"Goal":3,"Appearance":1,"Goals Conceded": 4,"Penalty": 0,"mom":0,"dod":0}},
-{"Points":{"player":"Harry Collins","Assist": 1,"Goal":1,"Appearance":1,"Goals Conceded": 4,"Penalty": 0.5,"mom":0,"dod":0}},
-{"Points":{"player":"Jack Crawly","Assist": 0,"Goal":2,"Appearance":1,"Goals Conceded": 4,"Penalty": 0,"mom":0,"dod":0}},
-{"Points":{"player":"Jamie Bodnar-Horvarth","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 4,"Penalty": 0,"mom":0,"dod":0}},
-{"Points":{"player":"John Wheeldon","Assist": 2,"Goal":1,"Appearance":1,"Goals Conceded": 0,"Penalty": 0,"mom":0,"dod":0}},
-{"Points":{"player":"Liam Kirwan","Assist": 1,"Goal":0,"Appearance":1,"Goals Conceded": 4,"Penalty": 1,"mom":0,"dod":0}},
-{"Points":{"player":"Mark Thresher","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 4,"Penalty": 0,"mom":0,"dod":0}},
-{"Points":{"player":"Peter Griffin","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 4,"Penalty": 0,"mom":0,"dod":0}},
-{"Points":{"player":"Rhydian Robinson","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 4,"Penalty": 1,"mom":1,"dod":0}},
-{"Points":{"player":"Rhys Morgan","Assist": 0,"Goal":1,"Appearance":1,"Goals Conceded": 4,"Penalty": 0,"mom":0,"dod":0}},
-{"Points":{"player":"Sam Scott","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 4,"Penalty": 0,"mom":0,"dod":0}},
-{"Points":{"player":"Tom Paton","Assist": 0,"Goal":1,"Appearance":1,"Goals Conceded": 0,"Penalty": 0,"mom":0,"dod":0}},
-{"Points":{"player":"Zach Michel","Assist": 0,"Goal":1,"Appearance":1,"Goals Conceded": 4,"Penalty": 0.5,"mom":0,"dod":0}},
-{"Points":{"player":"Adam Scott","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}},
-{"Points":{"player":"Alex Harris","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}},
-{"Points":{"player":"Andrew Macpherson","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}},
-{"Points":{"player":"Ben Jessup","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 3,"Penalty": 1,"mom":0,"dod":0}},
-{"Points":{"player":"Chris McCann","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}}
-{"Points":{"player":"Dom Fletcher","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}},
-{"Points":{"player":"Henning Schmidt","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}},
-{"Points":{"player":"Henry Bliss","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}},
-{"Points":{"player":"Jacob Derbyshire","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}},
-{"Points":{"player":"Ken Koi","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 0,"Penalty": 1,"mom":0,"dod":0}},
-{"Points":{"player":"Luke Hamilton","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":1,"dod":0}},
-{"Points":{"player":"Richard Gorr","Assist": 1,"Goal":2,"Appearance":1,"Goals Conceded": 0,"Penalty": 0,"mom":0,"dod":0}},
-{"Points":{"player":"Rob Clark","Assist": 0,"Goal":3,"Appearance":1,"Goals Conceded": 0,"Penalty": 0,"mom":0,"dod":1}},
-{"Points":{"player":"Rob Nichols","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}},
-{"Points":{"player":"Rufus Parkes","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}},
-{"Points":{"player":"Simon Moss","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}},
-{"Points":{"player":"Stefano Rovelli","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}},
-{"Points":{"player":"Tim Scott","Assist": 2,"Goal":1,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}}
+{"Draft": {"manager": "Liam Kirwan", "player": "Brian Potter"}}
   
 ]
 
