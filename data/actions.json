@@ -483,9 +483,10 @@
 {"Transfer": {"manager": "Zak Jordan","out": "Alex Darby", "in": "Rufus Parkes"}},  
 {"Transfer": {"manager": "Aaron Fox","out": "Bradd Tippler", "in": "Ben Stothard"}},  
 {"Transfer": {"manager": "Ed Biegel","out": "Liam Kirwan", "in": "Rhys Morgan"}},  
-{"Transfer": {"manager": "Ben Stothard","out": "Jamie Bodnar-Horvarth", "in": "Grek Markes"}},
+{"Transfer": {"manager": "Ben Stothard","out": "Jamie Bodnar-Horvarth", "in": "Greg Markes"}},
 {"Transfer": {"manager": "Tom Paton","out": "Alex Twiss", "in": "Adam Wilkinson"}},  
-{"Transfer": {"manager": "Rhys Morgan","out": "Harry Collins", "in": "Jack Crawly"}}
+{"Transfer": {"manager": "Rhys Morgan","out": "Harry Collins", "in": "Jack Crawly"}},
+{"Transfer": {"manager": "Richard Gorr","out": "Richard Gorr", "in": "Rob Clark"}}
 
 ]
 
