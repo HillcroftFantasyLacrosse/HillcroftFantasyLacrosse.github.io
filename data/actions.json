@@ -466,7 +466,27 @@
 {"Points":{"player":"Rufus Parkes","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}},
 {"Points":{"player":"Simon Moss","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}},
 {"Points":{"player":"Stefano Rovelli","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}},
-{"Points":{"player":"Tim Scott","Assist": 2,"Goal":1,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}}
+{"Points":{"player":"Tim Scott","Assist": 2,"Goal":1,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}},
+  
+{"Transfer": {"manager": "Zach Michel","out": "Zach Michel", "in": "Tim Scott"}},
+{"Transfer": {"manager": "Andrew Hopkins","out": "Harry Collins", "in": "Rhodri Stanford"}},
+{"Transfer": {"manager": "Sam Scott","out": "Alex Twiss", "in": "Adam Wilkinson"}},  
+{"Transfer": {"manager": "Harry Collins","out": "Zach Michel", "in": "Tom Ridings"}},  
+{"Transfer": {"manager": "Matt Tanner","out": "Brian Potter", "in": "Jon Arthur"}},  
+{"Transfer": {"manager": "James Prescott","out": "Duncan Trenholme", "in": "Rob Clark"}},  
+{"Transfer": {"manager": "Hector Smethurst","out": "Albert Whitehead", "in": "Adam Wilkinson"}},  
+{"Transfer": {"manager": "Alex Harris","out": "Zach Michel", "in": "Tom Ridings"}},
+{"Transfer": {"manager": "John Wheeldon","out": "Evan Yeckley", "in": "Tim Scott"}},  
+{"Transfer": {"manager": "Albert Whitehead","out": "Zach Michel", "in": "Adam Wilkinson"}},  
+{"Transfer": {"manager": "Bradd Tippler","out": "Evan Yeckley", "in": "Alex Harris"}},  
+{"Transfer": {"manager": "Eoin Dunne","out": "Rhydian Robinson", "in": "Luke Hamilton"}},
+{"Transfer": {"manager": "Zak Jordan","out": "Alex Darby", "in": "Rufus Parkes"}},  
+{"Transfer": {"manager": "Aaron Fox","out": "Bradd Tippler", "in": "Ben Stothard"}},  
+{"Transfer": {"manager": "Ed Biegel","out": "Liam Kirwan", "in": "Rhys Morgan"}},  
+{"Transfer": {"manager": "Ben Stothard","out": "Jamie Bodnar-Horvarth", "in": "Grek Markes"}},
+{"Transfer": {"manager": "Tom Paton","out": "Alex Twiss", "in": "Adam Wilkinson"}},  
+{"Transfer": {"manager": "Rhys Morgan","out": "Harry Collins", "in": "Jack Crawly"}}
+
 ]
 
   
