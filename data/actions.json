@@ -554,7 +554,9 @@
 {"Transfer": {"manager": "Aaron Fox","out": "Bradd Tippler", "in": "Ben Stothard"}},
 {"Transfer": {"manager": "Alex Harris","out": "Eoin Dunne", "in": "Richard Gorr"}},
 {"Transfer": {"manager": "Tom Lace","out": "Rhys Morgan", "in": "Tom Lace"}},
-{"Transfer": {"manager": "Ed Biegel","out": "Rhys Morgan", "in": "Alex Twiss"}}
+{"Transfer": {"manager": "Ed Biegel","out": "Rhys Morgan", "in": "Alex Twiss"}},
+{"Transfer": {"manager": "Tom Paton","out": "Adam Wilkinson", "in": "Tom Ridings"}},
+{"Transfer": {"manager": "Rhys Morgan","out": "Rhys Morgan", "in": "Zak Jordan"}}
 
 ]
 
