@@ -556,8 +556,42 @@
 {"Transfer": {"manager": "Tom Lace","out": "Rhys Morgan", "in": "Tom Lace"}},
 {"Transfer": {"manager": "Ed Biegel","out": "Rhys Morgan", "in": "Alex Twiss"}},
 {"Transfer": {"manager": "Tom Paton","out": "Adam Wilkinson", "in": "Tom Ridings"}},
-{"Transfer": {"manager": "Rhys Morgan","out": "Rhys Morgan", "in": "Zak Jordan"}}
+{"Transfer": {"manager": "Rhys Morgan","out": "Rhys Morgan", "in": "Zak Jordan"}},
 
+{"Points":{"player":"Alex Harris","Assist": 0,"Goal":1,"Appearance":1,"Goals Conceded": 10,"Penalty": 0,"mom":0,"dod":0}},
+{"Points":{"player":"Ben Jessup","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 10,"Penalty": 2,"mom":0,"dod":0}},
+{"Points":{"player":"Ben Stothard","Assist": 1,"Goal":1,"Appearance":1,"Goals Conceded": 10,"Penalty": 0,"mom":0,"dod":0}},
+{"Points":{"player":"Charlie O'Toole","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 10,"Penalty": 0,"mom":0,"dod":0}},
+{"Points":{"player":"Dom Fletcher","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 10,"Penalty": 0,"mom":0,"dod":0}},
+{"Points":{"player":"Fred Hacking","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 0,"Penalty": 0,"mom":0,"dod":0}},
+{"Points":{"player":"Henry Blackhurst","Assist": 0,"Goal":1,"Appearance":1,"Goals Conceded": 10,"Penalty": 0,"mom":0,"dod":0}},
+{"Points":{"player":"Henry Bliss","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 10,"Penalty": 0,"mom":0,"dod":0}},
+{"Points":{"player":"Jacob Derbyshire","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 10,"Penalty": 0,"mom":0,"dod":0}},
+{"Points":{"player":"Richard Gorr","Assist": 1,"Goal":1,"Appearance":1,"Goals Conceded": 0,"Penalty": 1,"mom":0,"dod":0}},
+{"Points":{"player":"Rob Clark","Assist": 1,"Goal":0,"Appearance":1,"Goals Conceded": 0,"Penalty": 0,"mom":0,"dod":0}},
+{"Points":{"player":"Rob Nichols","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 10,"Penalty": 0,"mom":0,"dod":0}},
+{"Points":{"player":"Rufus Parkes","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 10,"Penalty": 0,"mom":0,"dod":0}},
+{"Points":{"player":"Sam Scott","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 10,"Penalty": 0,"mom":1,"dod":0}},
+{"Points":{"player":"Simon Moss","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 10,"Penalty": 0,"mom":0,"dod":1}},
+{"Points":{"player":"Stefano Rovelli","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 10,"Penalty": 0,"mom":0,"dod":0}},
+{"Points":{"player":"Tim Scott","Assist": 0,"Goal":1,"Appearance":1,"Goals Conceded": 10,"Penalty": 0,"mom":0,"dod":0}},
+{"Points":{"player":"Tom Lace","Assist": 1,"Goal":0,"Appearance":1,"Goals Conceded": 10,"Penalty": 0,"mom":0,"dod":0}},
+{"Points":{"player":"Tom Russell","Assist": 0,"Goal":1,"Appearance":1,"Goals Conceded": 10,"Penalty": 0,"mom":0,"dod":0}},
+{"Points":{"player":"Albert Whitehead","Assist": 0,"Goal":1,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}},
+{"Points":{"player":"Alex Twiss","Assist": 1,"Goal":0,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}},
+{"Points":{"player":"Andrew Hopkins","Assist": 0,"Goal":1,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}},
+{"Points":{"player":"Chris Turner","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 3,"Penalty": 1,"mom":0,"dod":0}},
+{"Points":{"player":"Harry Collins","Assist": 4,"Goal":1,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}},
+{"Points":{"player":"Jack Crawly","Assist": 2,"Goal":7,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":1,"dod":0}},
+{"Points":{"player":"Jamie Bodnar-Horvarth","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}},
+{"Points":{"player":"John Goodwin","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}},
+{"Points":{"player":"John Wheeldon","Assist": 3,"Goal":1,"Appearance":1,"Goals Conceded": 0,"Penalty": 0,"mom":0,"dod":0}},
+{"Points":{"player":"Mathew O'Leary","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}},
+{"Points":{"player":"Rhodri Stanford","Assist": 3,"Goal":2,"Appearance":1,"Goals Conceded": 3,"Penalty": 1,"mom":0,"dod":0}},
+{"Points":{"player":"Tom Loake","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}},
+{"Points":{"player":"Tom Ridings","Assist": 1,"Goal":0,"Appearance":1,"Goals Conceded": 3,"Penalty": 1,"mom":0,"dod":1}},
+{"Points":{"player":"Zak Jordan","Assist": 3,"Goal":7,"Appearance":1,"Goals Conceded": 3,"Penalty": 0,"mom":0,"dod":0}}
+  
 ]
 
   
