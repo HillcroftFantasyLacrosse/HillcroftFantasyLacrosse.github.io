@@ -117,7 +117,8 @@ $.getJSON("data/squads.json", function(squads) {
                         var dodnum = data["dod"] || 0;
                         var goalconcedednum = data["Goals Conceded"] || 0;
                         var penaltynum = data["Penalty"] || 0;
-                        
+ 
+                        if (appearancenum == 1) {
                         var points = goalpoint * goalnum
                                      + assistpoint * assistnum
                                      + appearancepoint * appearancenum
@@ -125,15 +126,21 @@ $.getJSON("data/squads.json", function(squads) {
                                      + dodpoint * dodnum
                                      + goalconcededpoint[goalconcedednum] 
                                      + penaltypoint[penaltynum]
-                        player["points"] += points;
-                        player["goals"] += goalnum;
-                        player["assists"] += assistnum;
-                        player["penalties"] += penaltynum;
-                        player["appearances"] += appearancenum;
-                        player["mom"] += momnum;
-                        player["dod"] += dodnum;
-                        player["goalsconceded"] += goalconcedednum;
-                        player["gameweekpoints"] = points;
+                        
+                          player["points"] += points;
+                          player["goals"] += goalnum;
+                          player["assists"] += assistnum;
+                          player["penalties"] += penaltynum;
+                          player["appearances"] += appearancenum;
+                          player["mom"] += momnum;
+                          player["dod"] += dodnum;
+                          player["goalsconceded"] += goalconcedednum;
+                          player["gameweekpoints"] = points;
+                        }
+                        else {   
+                          var points = 0
+                          player["gameweekpoints"] = 0;
+                        }                      
                         $.each(managerList, function(undefined, nameManager) {
                             var manager = managerDict[nameManager];
                             if (manager["players"].indexOf(player["name"]) !== -1) {
