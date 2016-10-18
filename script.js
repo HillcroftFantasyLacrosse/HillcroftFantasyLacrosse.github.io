@@ -96,6 +96,8 @@ $.getJSON("data/squads.json", function(squads) {
                         if (index !== -1) {
                             manager["players"].splice(index, 1, data["in"]);
                         }
+                        manager["teamvalue"] -= playerOut["value"];
+                        manager["teamvalue"] += playerIn["value"];
                         tr = getRow();
                         tr.append($("<td>").append(getDescriptor(type, ++manager["transfers"])));
                         tr.append($("<td>").append(getPerson(playerIn, "in")).append(getPerson(playerOut, "out")));
