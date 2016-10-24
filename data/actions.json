@@ -557,6 +557,8 @@
 {"Transfer": {"manager": "Ed Biegel","out": "Rhys Morgan", "in": "Alex Twiss"}},
 {"Transfer": {"manager": "Tom Paton","out": "Adam Wilkinson", "in": "Tom Ridings"}},
 {"Transfer": {"manager": "Rhys Morgan","out": "Rhys Morgan", "in": "Zak Jordan"}},
+{"Transfer": {"manager": "Ben Stothard","out": "Greg Markes", "in": "Ben Stothard"}},
+{"Transfer": {"manager": "John Wheeldon","out": "Chris McCann", "in": "Dom Fletcher"}},
 
 {"Points":{"player":"Alex Harris","Assist": 0,"Goal":1,"Appearance":1,"Goals Conceded": 10,"Penalty": 0,"mom":0,"dod":0}},
 {"Points":{"player":"Ben Jessup","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 10,"Penalty": 2,"mom":0,"dod":0}},
@@ -635,6 +637,7 @@
 {"Points":{"player":"Zach Michel","Assist": 0,"Goal":0,"Appearance":0,"Goals Conceded": 0,"Penalty": 0,"mom":0,"dod":0}},  
 
 {"Transfer": {"manager": "Giles Cuddy","out": "Rhodri Stanford", "in": "Zak Jordan"}},
+{"Transfer": {"manager": "Rhodri Stanford","out": "John Wheeldon", "in": "Duncan Trenholme"}},
 {"Transfer": {"manager": "Tom Lace","out": "Tom Lace", "in": "Jack Crawley"}},
 {"Transfer": {"manager": "Harry Collins","out": "John Wheeldon", "in": "Duncan Trenholme"}},
 {"Transfer": {"manager": "Eoin Dunne","out": "Ken Koi", "in": "Duncan Trenholme"}},
