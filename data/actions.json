@@ -632,7 +632,20 @@
 {"Points":{"player":"Robin Van der Harst","Assist": 0,"Goal":0,"Appearance":0,"Goals Conceded": 0,"Penalty": 0,"mom":0,"dod":0}},
 {"Points":{"player":"Stephen King","Assist": 0,"Goal":0,"Appearance":0,"Goals Conceded": 0,"Penalty": 0,"mom":0,"dod":0}},
 {"Points":{"player":"Tom Paton","Assist": 0,"Goal":0,"Appearance":0,"Goals Conceded": 0,"Penalty": 0,"mom":0,"dod":0}},
-{"Points":{"player":"Zach Michel","Assist": 0,"Goal":0,"Appearance":0,"Goals Conceded": 0,"Penalty": 0,"mom":0,"dod":0}}  
+{"Points":{"player":"Zach Michel","Assist": 0,"Goal":0,"Appearance":0,"Goals Conceded": 0,"Penalty": 0,"mom":0,"dod":0}},  
+
+{"Transfer": {"manager": "Giles Cuddy","out": "Rhodri Stanford", "in": "Zak Jordan"}},
+{"Transfer": {"manager": "Tom Lace","out": "Tom Lace", "in": "Jack Crawley"}},
+{"Transfer": {"manager": "Harry Collins","out": "John Wheeldon", "in": "Duncan Trenholme"}},
+{"Transfer": {"manager": "Eoin Dunne","out": "Ken Koi", "in": "Duncan Trenholme"}},
+{"Transfer": {"manager": "Albert Whitehead","out": "John Wheeldon", "in": "Ben Stringer"}},
+{"Transfer": {"manager": "Zak Jordan","out": "Jamie Bodnar-Horvarth", "in": "Dom Fletcher"}},
+{"Transfer": {"manager": "Matt Tanner","out": "Alex Twiss", "in": "Tom Lace"}},
+{"Transfer": {"manager": "Fred Hacking","out": "Robin Van der Harst", "in": "Andrew Macpherson"}},
+{"Transfer": {"manager": "Aaron Fox","out": "Evan Yeckley", "in": "Tim Scott"}},
+{"Transfer": {"manager": "Ed Biegel","out": "John Wheeldon", "in": "Duncan Trenholme"}},
+{"Transfer": {"manager": "James Prescott","out": "Alex Darby", "in": "Ben Jessup"}},
+{"Transfer": {"manager": "Andrew Hopkins","out": "Brian Potter", "in": "Tom Paton"}}
   
 ]
 
