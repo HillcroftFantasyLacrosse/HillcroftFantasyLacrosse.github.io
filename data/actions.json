@@ -648,6 +648,9 @@
 {"Transfer": {"manager": "Aaron Fox","out": "Evan Yeckley", "in": "Tim Scott"}},
 {"Transfer": {"manager": "Ed Biegel","out": "John Wheeldon", "in": "Duncan Trenholme"}},
 {"Transfer": {"manager": "James Prescott","out": "Alex Darby", "in": "Ben Jessup"}},
+{"Transfer": {"manager": "Tom Paton","out": "John Wheeldon", "in": "Duncan Trenholme"}},
+{"Transfer": {"manager": "Sam Scott","out": "Rhodri Stanford", "in": "Jack Crawly"}},
+{"Transfer": {"manager": "Rhys Morgan","out": "John Wheeldon", "in": "Duncan Trenholme"}},
 {"Transfer": {"manager": "Andrew Hopkins","out": "Brian Potter", "in": "Tom Paton"}}
   
 ]
