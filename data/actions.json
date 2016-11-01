@@ -739,6 +739,7 @@
 {"Transfer": {"manager": "Richard Gorr","out": "Bradd Tipler", "in": "Ben Stothard"}},
 {"Transfer": {"manager": "Tom Paton","out": "Henry Bliss", "in": "Tim Scott"}},
 {"Transfer": {"manager": "Sam Scott","out": "Rob Clark", "in": "Duncan Trenholme"}},
+{"Transfer": {"manager": "Rhys Morgan","out": "Rufus Parkes", "in": "Tom Loake"}},
  
 {"Points":{"player":"Adam Wilkinson","Assist": 0,"Goal":2,"Appearance":1,"Goals Conceded": 4,"Penalty": 0,"mom":0,"dod":0}},
 {"Points":{"player":"Albert Whitehead","Assist": 1,"Goal":1,"Appearance":1,"Goals Conceded": 4,"Penalty": 0,"mom":0,"dod":0}},
