@@ -816,8 +816,19 @@
 {"Points":{"player":"Simon Moss","Assist": 0,"Goal":0,"Appearance":0,"Goals Conceded": 0,"Penalty": 0,"mom":0,"dod":0}},
 {"Points":{"player":"Stefano Rovelli","Assist": 0,"Goal":0,"Appearance":0,"Goals Conceded": 0,"Penalty": 0,"mom":0,"dod":0}},
 {"Points":{"player":"Stephen King","Assist": 0,"Goal":0,"Appearance":0,"Goals Conceded": 0,"Penalty": 0,"mom":0,"dod":0}},
-{"Points":{"player":"Tom Russell","Assist": 0,"Goal":0,"Appearance":0,"Goals Conceded": 0,"Penalty": 0,"mom":0,"dod":0}}
+{"Points":{"player":"Tom Russell","Assist": 0,"Goal":0,"Appearance":0,"Goals Conceded": 0,"Penalty": 0,"mom":0,"dod":0}},
 
+{"Transfer": {"manager": "Harry Collins","out": "Rob Clark", "in": "Eoin Dunne"}},
+{"Transfer": {"manager": "Aaron Fox","out": "John Wheeldon", "in": "Brian Potter"}},
+{"Transfer": {"manager": "Ed Biegel","out": "John Wheeldon", "in": "Brian Potter"}},
+{"Transfer": {"manager": "Hector Smethurst","out": "Jon Arthur", "in": "Eoin Dunne"}},
+{"Transfer": {"manager": "Albert Whitehead","out": "Ben Stringer", "in": "Duncan Trenholme"}},
+{"Transfer": {"manager": "Tom Lace","out": "Ben Stringer", "in": "Eoin Dunne"}},
+{"Transfer": {"manager": "Zak Jordan","out": "Alex Twiss", "in": "Zak Jordan"}},
+{"Transfer": {"manager": "Rhys Morgan","out": "Richard Gorr", "in": "Eoin Dunnne"}},
+{"Transfer": {"manager": "Sam Scott","out": "Adam Wilkinson", "in": "Rhodri Stanford"}},
+{"Transfer": {"manager": "Tom Paton","out": "Ed Biegel", "in": "Tom Loake"}}
+  
 ]
 
   
