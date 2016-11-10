@@ -827,7 +827,7 @@
 {"Transfer": {"manager": "Zak Jordan","out": "Alex Twiss", "in": "Zak Jordan"}},
 {"Transfer": {"manager": "Rhys Morgan","out": "Richard Gorr", "in": "Eoin Dunne"}},
 {"Transfer": {"manager": "Sam Scott","out": "Adam Wilkinson", "in": "Rhodri Stanford"}},
-{"Transfer": {"manager": "Tom Paton","out": "Ed Biegel", "in": "Tom Loake"}}
+{"Transfer": {"manager": "Tom Paton","out": "Ed Biegel", "in": "Tom Loake"}},
   
 {"Points":{"player":"Alex Harris","Assist": 0,"Goal":1,"Appearance":1,"Goals Conceded": 4,"Penalty": 0,"mom":0,"dod":0}},
 {"Points":{"player":"Andrew Macpherson","Assist": 0,"Goal":0,"Appearance":1,"Goals Conceded": 4,"Penalty": 0,"mom":1,"dod":0}},
