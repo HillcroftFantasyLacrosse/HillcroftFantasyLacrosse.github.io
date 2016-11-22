@@ -905,8 +905,21 @@
 {"Points":{"player":"Sam Scott","Assist": 0,"Goal":0,"Appearance":0,"Goals Conceded": 0,"Penalty": 0,"mom":0,"dod":0}},
 {"Points":{"player":"Simon Moss","Assist": 0,"Goal":0,"Appearance":0,"Goals Conceded": 0,"Penalty": 0,"mom":0,"dod":0}},
 {"Points":{"player":"Tom Russell","Assist": 0,"Goal":0,"Appearance":0,"Goals Conceded": 0,"Penalty": 0,"mom":0,"dod":0}},
-{"Points":{"player":"Zach Michel","Assist": 0,"Goal":0,"Appearance":0,"Goals Conceded": 0,"Penalty": 0,"mom":0,"dod":0}}
+{"Points":{"player":"Zach Michel","Assist": 0,"Goal":0,"Appearance":0,"Goals Conceded": 0,"Penalty": 0,"mom":0,"dod":0}},
 
+{"Transfer": {"manager": "Ben Stringer","out": "Ben Stringer", "in": "Duncan Trenholme"}},
+{"Transfer": {"manager": "Matt Tanner","out": "Rhys Morgan", "in": "Zak Jordan"}},
+{"Transfer": {"manager": "Albert Whitehead","out": "Adam Wilkinson", "in": "Harry Collins"}},
+{"Transfer": {"manager": "Richard Gorr","out": "John Wheeldon", "in": "Duncan Trenholme"}},
+{"Transfer": {"manager": "Aaron Fox","out": "Tim Scott", "in": "Rhodri Stanford"}},
+{"Transfer": {"manager": "Ed Biegel","out": "Tim Scott", "in": "Zak Jordan"}},
+{"Transfer": {"manager": "James Prescott","out": "James Prescott", "in": "Tom Loake"}},
+{"Transfer": {"manager": "Andrew Hopkins","out": "Tom Paton", "in": "Eoin Dunne"}},
+{"Transfer": {"manager": "Tom Lace","out": "Henry Blackhurst", "in": "Tom Lace"}},
+{"Transfer": {"manager": "Eoin Dunne","out": "Evan Yeckley", "in": "Rhodri Stanford"}},
+{"Transfer": {"manager": "Sam Scott","out": "Jack Crawly", "in": "Tom Lace"}},
+{"Transfer": {"manager": "","out": "Jack Crawly", "in": "Rhodri Stanford"}}
+  
 ]
 
   
