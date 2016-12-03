@@ -998,10 +998,7 @@
 {"Points":{"player":"Tom Russell","Assist": 0,"Goal":0,"Appearance":0,"Goals Conceded": 0,"Penalty": 0,"mom":0,"dod":0}},
 {"Points":{"player":"Zach Michel","Assist": 0,"Goal":0,"Appearance":0,"Goals Conceded": 0,"Penalty": 0,"mom":0,"dod":0}},
 
-{"Transfer": {"manager": "Albert Whitehead","out": "Brian Potter", "in": "Richard Gorr"}},
-{"Transfer": {"manager": "Tom Loake","out": "Henning Schmidt", "in": "Ben Jessup"}},
-{"Transfer": {"manager": "Rhodri Stanford","out": "Henning Schmidt", "in": "Greg Markes"}},
-{"Transfer": {"manager": "Tom Lace","out": "Ken Koi", "in": "Richard Gorr"}}
+{"Transfer": {"manager": "Albert Whitehead","out": "Brian Potter", "in": "Richard Gorr"}}
 
 ]
 
